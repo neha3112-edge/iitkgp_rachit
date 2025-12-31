@@ -92,11 +92,13 @@
                     <div>
                         <label>Course <span class="required">*</span></label>
                         <select name="course" class="form-control" id="courseSelect" required>
-                            <option value="" selected disabled>Select Your Course</option>
-                            <option value="DBA in Finance">DBA in Finance</option>
-                            <option value="DBA in Leadership">DBA in Leadership</option>
-                            <option value="DBA+MBA in Finance">DBA+MBA in Finance</option>
-                            <option value="DBA+MBA in Leadership">DBA+MBA in Leadership</option>
+                            <option value="">Select Your Course</option>
+                            <option value="Executive Programme in Generative AI for Leaders">Executive Programme in Generative AI for Leaders</option>
+                            <option value="Executive Post Graduate Certificate Programme in Data Science & AI">Executive Post Graduate Certificate Programme in Data Science & AI</option>
+                            <option value="Professional Certificate Programme in Data Science with Generative AI">Professional Certificate Programme in Data Science with Generative AI</option>
+                            <option value="Executive Post Graduate Programme in Applied AI and Agentic AI">Executive Post Graduate Programme in Applied AI and Agentic AI</option>
+                            <option value="Executive Diploma in Machine Learning & Artificial Intelligence">Executive Diploma in Machine Learning & Artificial Intelligence</option>
+                            <option value="Chief Technology Officer & AI Leadership Programme">Chief Technology Officer & AI Leadership Programme</option>
                         </select>
                     </div>
 
@@ -136,6 +138,7 @@
                         </select>
                     </div>
 
+                    <input type="hidden" name="brochure_pdf" id="brochure_pdf">
                     <input type="hidden" name="source" id="source" value="DBA LP">
                     <input type="hidden" name="form_name" id="form_name" value="Download Brochure">
                     <input type="hidden" name="sub_source" id="sub_source" value="">
@@ -195,31 +198,33 @@
 
 
 <script>
-    // Handle form submission
-    document.addEventListener('DOMContentLoaded', function () {
-        const submitBtn = document.getElementById('downloadbrochurebtn');
-        const courseSelect = document.getElementById('courseSelect');
-        const courseForm = document.getElementById('enquiry-form');
+document.addEventListener('submit', function (event) {
 
-        submitBtn.addEventListener('click', function (event) {
-            const selectedCourse = courseSelect.value;
+  const form = event.target;
 
-            // Validate if the course is selected
-            if (!selectedCourse) {
-                alert('Please select a course before submitting the form.');
-                event.preventDefault(); // Prevent form submission
-                return;
-            }
+  if (form.id !== 'enquiry-form') return;
 
-            // Open the corresponding PDF
-            const pdfFileName = `../assets/img/edgewood_brochure.pdf`;
-            window.open(pdfFileName, '_blank');
+  const courseSelect = form.querySelector('select[name="course"]');
+  const brochurePDF = form.querySelector('#brochure_pdf').value;
 
-            // Form submits to mail.php automatically because there is no `event.preventDefault()` here
-        });
+  if (!courseSelect.value) {
+    alert('Please select a course before submitting the form.');
+    event.preventDefault();
+    return false;
+  }
 
-        // Ensure the form submits to mail.php
-        courseForm.setAttribute('action', 'mail.php');
-    });
+  if (!brochurePDF) {
+    alert('Brochure not found.');
+    event.preventDefault();
+    return false;
+  }
+
+  // Open the correct PDF
+  window.open(brochurePDF, '_blank');
+
+});
 </script>
+
+
+
   

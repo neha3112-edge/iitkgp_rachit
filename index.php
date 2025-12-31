@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
 
           <div class="course-actions">
-            <button class="btn brochure">Download Brochure</button>
+            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/Executive_Program_in_Generative_AI_for_Leaders.pdf">Download Brochure</button>
             <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
@@ -149,7 +149,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
 
           <div class="course-actions">
-            <button class="btn brochure">Download Brochure</button>
+            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/IIITB_EPGC_DS_AI.pdf">Download Brochure</button>
             <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
@@ -167,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
 
           <div class="course-actions">
-            <button class="btn brochure">Download Brochure</button>
+            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/PCP_in_DS_26_Gen_AI_with_IIIT_B.pdf">Download Brochure</button>
             <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
@@ -178,14 +178,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="assets/img/course-4.webp" alt="Course Image" class="course-img">
 
         <div class="course-content">
-          <h3>Executive Post Graduate Programme in Applied AI and Agentic AI:</h3>
+          <h3>Executive Post Graduate Programme in Applied AI and Agentic AI</h3>
 
           <p class="course-desc">
-            IIIT Bangalore certification courses cover applied AI, agents, RAG, and automation, strengthening IIIT Bangalore's artificial intelligence skills through assignments, labs, and capstone projects.
+            IIIT Bangalore certification courses cover applied AI, agents, RAG, and automation, strengthening IIIT Bangalore's artificial intelligence skills through assignments.
           </p>
 
           <div class="course-actions">
-            <button class="btn brochure">Download Brochure</button>
+            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/Applied_AI_and_Agentic_AI-4.pdf">Download Brochure</button>
             <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
@@ -199,11 +199,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>Executive Diploma in Machine Learning & Artificial Intelligence</h3>
 
           <p class="course-desc">
-            IIIT Bangalore's online courses offer advanced ML, MLOps, deep learning, and GenAI modules, making them ideal certification courses for professionals seeking strong career growth.
+            IIIT Bangalore's online courses offer advanced ML, MLOps, deep learning, and GenAI modules, making them ideal certification courses for working professionals who are seeking strong career growth in their professional journey.
           </p>
 
           <div class="course-actions">
-            <button class="btn brochure">Download Brochure</button>
+            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/IIITB_ED_ML.pdf">Download Brochure</button>
             <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
@@ -221,7 +221,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
 
           <div class="course-actions">
-            <button class="btn brochure">Download Brochure</button>
+            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/CTOAI_leadership_program.pdf">Download Brochure</button>
             <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
@@ -707,5 +707,18 @@ document.querySelectorAll('.faq-question').forEach(button => {
             currentItem.classList.add('active');
         }
     });
+});
+</script>
+
+
+<script>
+let selectedPDF = "";
+
+document.querySelectorAll('.downloadBrochureBtn').forEach(btn => {
+  btn.addEventListener('click', function () {
+    selectedPDF = this.getAttribute('data-pdf');
+    document.getElementById('brochure_pdf').value = selectedPDF;
+    openPopup('brochurePopup');
+  });
 });
 </script>
