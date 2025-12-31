@@ -42,7 +42,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
             </div>
 
-            <button class="banner_custom_btn btn2" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;">Explore Programs </button>
+            <button class="banner_custom_btn btn2" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;"><a href="#main-courses">Explore Programs </a></button>
            </div>
 		
            <div class="banner-form">
@@ -58,7 +58,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<section class="accreditation-section">
+<section id="approvals" class="accreditation-section">
   <div class="accreditation-container">
 
     <!-- Left Column -->
@@ -111,7 +111,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<section class="courses-section">
+<section id="main-courses" class="courses-section">
   <div class="courses-container">
 
     <h2 class="section-title">Courses Offered</h2>
@@ -132,7 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <div class="course-actions">
             <button class="btn brochure">Download Brochure</button>
-            <button class="btn apply">Apply now</button>
+            <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
       </div>
@@ -150,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <div class="course-actions">
             <button class="btn brochure">Download Brochure</button>
-            <button class="btn apply">Apply now</button>
+            <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
       </div>
@@ -168,7 +168,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <div class="course-actions">
             <button class="btn brochure">Download Brochure</button>
-            <button class="btn apply">Apply now</button>
+            <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
       </div>
@@ -186,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <div class="course-actions">
             <button class="btn brochure">Download Brochure</button>
-            <button class="btn apply">Apply now</button>
+            <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
       </div>
@@ -204,14 +204,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <div class="course-actions">
             <button class="btn brochure">Download Brochure</button>
-            <button class="btn apply">Apply now</button>
+            <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
       </div>
 
       <!-- Card -->
       <div class="course-card">
-        <img src="assets/img/course-6.webp" alt="Course Image" class="course-img">
+        <img src="assets/img/iiim-udaipur.webp" alt="Course Image" class="course-img">
 
         <div class="course-content">
           <h3>Chief Technology Officer & AI Leadership Programme</h3>
@@ -222,7 +222,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <div class="course-actions">
             <button class="btn brochure">Download Brochure</button>
-            <button class="btn apply">Apply now</button>
+            <button class="btn apply enquireNowBtn">Apply now</button>
           </div>
         </div>
       </div>
@@ -235,12 +235,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<section class="about-section">
+<section id="about-section" class="about-section">
   <div class="about-container">
 
     <!-- Left Image -->
     <div class="about-image">
-      <img src="iiitb.jpg" alt="IIIT Bangalore Campus">
+      <img src="assets/img/iiit-b-about-image.webp" alt="IIIT Bangalore Campus">
     </div>
 
     <!-- Right Content -->
@@ -253,13 +253,80 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </p>
 
       <div class="about-actions">
-        <button class="btn red">📞 Request Call Back</button>
-        <button class="btn outline">Get 1:1 FREE Counseling</button>
+        <button class="btn red enquireNowBtn"><i class="fa fa-phone"></i> Request Call Back</button>
+        <button class="btn outline enquireNowBtn">Get 1:1 FREE Counseling</button>
       </div>
     </div>
 
   </div>
 </section>
+
+
+
+
+<section id="why_choose" class="why-section">
+  <div class="why-header">
+    <h2>WHY CHOOSE?</h2>
+    <p>IIIT Bangalore Online Courses</p>
+  </div>
+
+  <div class="why-grid">
+    <!-- Card 1 -->
+    <div class="why-card dark">
+      <img src="assets/img/premier-institute-credibility-iiitb.webp">
+      <h3>Premier institute credibility</h3>
+      <p>
+        With strong academic standards and industry trust, IIIT Bangalore online courses deliver learning that carries real value in hiring and career growth.
+      </p>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="why-card light">
+      <img src="assets/img/future-ready-ai-learning.webp">
+      <h3>Future-ready AI learning</h3>
+      <p>
+        The curriculum is built around practical outcomes in iiit bangalore artificial intelligence, helping professionals work confidently with real AI tools and use cases.
+      </p>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="why-card dark">
+      <img src="assets/img/strong-data-science.webp">
+      <h3>Strong Data Science foundation</h3>
+      <p>
+        Programs at IIIT Bangalorefocus on statistics, ML models, business insights, and projects that build job-ready skills.
+      </p>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="why-card light">
+      <img src="assets/img/future-ready-ai-learning.webp">
+      <h3>Certification advantage</h3>
+      <p>
+        These are structured IIIT Bangalore certification courses designed for professionals who want credible credentials with applied training, not just theory.
+      </p>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="why-card dark">
+      <img src="assets/img/leadership-edge-with-partner.webp">
+      <h3>Leadership edge with partner institute</h3>
+      <p>
+        The CTO leadership track includes IIIT Udaipur artificial intelligence coverage, combining tech strategy and AI decision-making for senior roles.
+      </p>
+    </div>
+
+    <!-- Card 6 -->
+    <div class="why-card light">
+      <img src="assets/img/hands-on-learning-approach.webp">
+      <h3>Hands-on learning approach</h3>
+      <p>
+        Across multiple tracks, IIIT Bangalore online courses include projects, labs, and capstones, with IIIT Bangalore artificial intelligence, IIIT Bangalore data science, IIIT Bangalore certification courses, and IIIT Udaipur artificial intelligence all integrated into career-focused outcomes.
+      </p>
+    </div>
+  </div>
+</section>
+
 
 
 
@@ -327,27 +394,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <section id="sample-certificate" class="certificate-slider-section">
-    <div class="slider-container">
         
         <div class="certificate-display">
-            <div class="certificate-track">
-                <img src="../assets/img/sample-certficate-edgewood.webp" class="cert-slide active" alt="Certificate 1">
-                <img src="../assets/img/sample-certficate-edgewood.webp" class="cert-slide" alt="Certificate 2">
-            </div>
-            
-            <div class="slider-dots">
-                <span class="dot active" onclick="currentSlide(0)"></span>
-                <span class="dot" onclick="currentSlide(1)"></span>
-            </div>
+                <img src="assets/img/sample-certificate.webp" alt="Certificate 1">
         </div>
 
         <div class="certificate-content">
-            <h2>Sample Certification</h2>
-            <p class="sub-heading">Edgewood University Online</p>
+            <h2>Sample Post <br> Graduate Certificate</h2>
             <p class="description">
-                Edgewood University Online offers two certifications after completion of their degree: PwC and the certificate of Edgewood University. These two certificates help students prepare for top-board level roles. In the partnership of PwC India, it teaches strategic thinking, handling stakeholders, governance, and compliance through live lecture which teaching studnet a real-world expertise guidance, which buld confinace to succeed in a business career with Edgewood University Online DBA+MBA and MBA.
+                The students who have completed their IIIT Bangalore Online courses will receive two certificates from Microsoft. The student gets to learn multiple tools, which will allow them to get the upgrade they need in their professional journey. IIIT Bangalore also offers special IIIM Udaipur artificial intelligence courses that allow students to earn a dual degree.
             </p>
-            <a href="#" class="get-degree-btn enquireNowBtn">Get Degree <span class="arrow">→</span></a>
+            <a class="get-degree-btn enquireNowBtn">Get Degree <span class="arrow">→</span></a>
         </div>
         
     </div>
@@ -364,53 +421,72 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="faq-item active">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                What is the duration of the Edgewood University Online DBA?
+                What are the IIIT Bangalore online courses?
             </button>
             <div class="faq-answer">
-                <p>The Edgewood University Online DBA can be completed in as little as 24 months, depending on your pace.</p>
+                <p>They are industry-focused online programmes from IIIT Bangalore, designed for working professionals with flexible learning, projects, and recognised certification.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                Is the Edgewood University Online DBA accredited?
+                 Do IIIT Bangalore certification courses help in career growth?
             </button>
             <div class="faq-answer">
-                <p>The Edgewood University Online DBA is HLC-accredited, which supports its academic credibility in the U.S.</p>
+                <p>Yes. These certifications add credibility, strengthen skills, and help professionals qualify for better roles in tech and management.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                How long does the Edgewood University Online MBA+DBA take to complete?
+                 Is iiit bangalore artificial intelligence taught with practical training?
             </button>
             <div class="faq-answer">
-                <p>The Edgewood University Online MBA+DBA can be completed in around 2.5 years, combining both degrees in one structured path.</p>
+                <p>Yes. The AI-focused programmes include real-world use cases, hands-on assignments, and capstone projects to build job-ready expertise.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                Does the MBA part of Edgewood University's Online MBA+DBA have business accreditation?
+                Do iiit bangalore data science programmes include projects?
             </button>
             <div class="faq-answer">
-                <p>Yes. The MBA included in the Edgewood University Online MBA+DBA is ACBSP-accredited, which reflects quality standards in business education.</p>
+                <p>Yes. Data Science programmes include applied projects, tool-based learning, and an industry-aligned curriculum for real-world analytics and ML problem-solving.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                Which is better: Edgewood University Online MBA or MBA+DBA?
+                 Is iiit Udaipur artificial intelligence included in the CTO programme?
             </button>
             <div class="faq-answer">
-                <p>Choose Edgewood University Online MBA for leadership and career growth. Choose MBA+DBA if you want advanced expertise, applied research skills, and the “Dr.” title.</p>
+                <p>Yes. The CTO & AI Leadership programme, offered in partnership with IIM Udaipur, covers AI leadership and decision-making modules.</p>
             </div>
         </div>
     </div>
+</section>
+
+
+
+
+<section class="cta-strip">
+  <div class="container">
+  <div class="cta-container">
+    <div class="cta-text">
+      <h3>Need clarification?</h3>
+      <p>Interact with experts, Get free consultation.</p>
+    </div>
+
+    <a class="cta-btn enquireNowBtn">
+      <i class="fa fa-phone"></i>
+      Talk to Experts
+    </a>
+  </div>
+</div>
 </section>
 
 

@@ -5,7 +5,7 @@
     <div class="container">
     <div class="footer-section">
             <div class="footer-column">
-                <img src="assets/img/edewood-logo-footer.webp" alt="logo-img" width="70%"/><br><br>
+                <img src="assets/img/iiit-b-footer-logo.webp" alt="logo-img" width="70%"/><br><br>
                    <h2>Have Query? <br>Need Guidance</h2><br>
                   <button class="enquireNowBtn" style="background-color:var(--primary-color); padding:10px 20px; color:#fff; border-style:none; border-radius:5px;"><i class="fa fa-phone"></i> Request Call Back</button>
             </div>
@@ -27,7 +27,7 @@
             </div>
             <div class="footer-column">
                 <h2>QUICK LINKS</h2>
-				<p><a href="#about-section" style="text-decoration:none;">Approvals & Accredition</a> <br>
+				<p><a href="#approvals" style="text-decoration:none;">Approvals & Accredition</a> <br>
 				<a href="#sample-certificate" style="text-decoration:none;">Sample Certificates
 </a><br><a href="#faqs" style="text-decoration:none;">Frequently Asked Question
 </a></p>
