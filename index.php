@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 
       <div class="accreditation-item">
-        <img src="assets/img/aiu-iiit.webp" alt="AIU Member">
+        <img src="assets/img/AACSB.webp" alt="AIU Member">
         <div class="accreditation-item-content">
         <h4>AACSB</h4>
         <p>The approval association signals a global business-quality benchmark, strengthening leadership and learning value.</p>
@@ -300,7 +300,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- Card 4 -->
     <div class="why-card light">
-      <img src="assets/img/future-ready-ai-learning.webp">
+      <img src="assets/img/certificate-iiitb.webp">
       <h3>Certification advantage</h3>
       <p>
         These are structured IIIT Bangalore certification courses designed for professionals who want credible credentials with applied training, not just theory.
