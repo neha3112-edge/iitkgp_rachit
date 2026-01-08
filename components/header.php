@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.png"/>
     <title>IIIT Bangalore Online Courses | AI, Data Science & Certifications</title>
-    <meta decription="Explore IIIT Bangalore online courses in AI & Data Science. NAAC A+ accredited certification programs with IIIM Udaipur artificial intelligence leadership modules.">
+    <meta decription="Explore IIIT Bangalore online courses in AI & Data Science. NAAC A+ accredited certification programs with IIM Udaipur artificial intelligence leadership modules.">
     <meta keyword="Online DBA Programs">
 	<link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/common.css">
