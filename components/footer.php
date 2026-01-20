@@ -5,7 +5,7 @@
     <div class="container">
     <div class="footer-section">
             <div class="footer-column">
-                <a href="https://kharagpur.distanceeducationschool.in/"><img src="assets/img/unnamed-2-696f690636902.webp" alt="logo-img" width="70%"/><br><br></a>
+                <a href="https://kharagpur.distanceeducationschool.in/"><img src="assets/img/IITKGP.webp" alt="logo-img" width="70%"/><br><br></a>
                    <h2>Have Query? <br>Need Guidance</h2><br>
                   <button class="enquireNowBtn" style="background-color:var(--primary-color); padding:10px 20px; color:#fff; border-style:none; border-radius:5px;"><i class="fa fa-phone"></i> Request Call Back</button>
             </div>
