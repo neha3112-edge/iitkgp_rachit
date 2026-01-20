@@ -31,18 +31,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <div class="banner">
            <div class="banner-info">
             <!-- <p class="t1"><span class="t2">IIM KOZHIKODE</span></p> -->
-             <h2>Build Leadership quality<br> with AI Generative courses from</h2>
-            <h1 style="font-family:Impact, sans-serif !important;">IIIT Bangalore<br> Online Courses</h1>
-            <div class="banner_lists">
-                <ul>
-                    <li><i class="fa fa-check-square-o"></i> NAAC A+ accredited</li>
-                    <li><i class="fa fa-check-square-o"></i> 6+ Certification courses</li>
-                    <li><i class="fa fa-check-square-o"></i> Partnership of IIIT & IIM Udaipur</li>
-                    <li><i class="fa fa-check-square-o"></i> 5-14 Months</li>
-                </ul>
-            </div>
+             <h3>Executive Post-Graduate Certificate in</h3>
+            <h1 style="font-family:Impact, sans-serif !important;">Generative AI & Agentic AI</h1>
+            <h2>From IIT Kharagpur</h2>
+            <p>An industry-first Generative AI program from IIT Kharagpur, designed for professionals and led live by CSE faculty. Gain job-ready skills to lead AI-driven projects with confidence in real business environments.</p>
 
-            <button class="banner_custom_btn btn2" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;"><a href="#main-courses">Explore Programs </a></button>
+            <button class="banner_custom_btn btn2 downloadBrochureBtn btn brochure" data-pdf="assets/img/brochure.pdf" style="background-color:#F1BA00; color:red; border-style:none; font-weight:bold;"><a class="downloadBrochureBtn">Download Brochure</a></button>
            </div>
 		
            <div class="banner-form">
@@ -58,333 +52,246 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<section id="approvals" class="accreditation-section">
-  <div class="accreditation-container">
 
-    <!-- Left Column -->
-    <div class="accreditation-left">
-      <img src="assets/img/award-icon.webp" alt="Awards" class="trophy" />
-      <h2>Approvals &<br />Accreditation</h2>
+<div class="course-stats-container">
+    <div class="stat-item">
+        <div class="header-row">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320C64 178.6 178.6 64 320 64zM296 184L296 320C296 328 300 335.5 306.7 340L402.7 404C413.7 411.4 428.6 408.4 436 397.3C443.4 386.2 440.4 371.4 429.3 364L344 307.2L344 184C344 170.7 333.3 160 320 160C306.7 160 296 170.7 296 184z"/></svg>
+            <span class="label">Duration</span>
+        </div>
+        <div class="value">08 Month</div>
+        <div class="sub-value">(48 Weeks)</div>
     </div>
 
-    <!-- Divider -->
     <div class="divider"></div>
 
-    <!-- Right Column -->
-    <div class="accreditation-grid">
-      <div class="accreditation-item">
-        <img src="assets/img/naac-a-iiit.webp" alt="NAAC A+ Accredited">
-        <div class="accreditation-item-content">
-        <h4>NAAC A+</h4>
-        <p>The IIIT Bangalore certificate courses have an A+ grade, which proves that the institute offers quality learning outcomes for professionals.</p>
-</div>  
-    </div>
-
-      <div class="accreditation-item">
-        <img src="assets/img/ugc-iiit.webp" alt="UGC Entitled">
-        <div class="accreditation-item-content">
-        <h4>UGC</h4>
-        <p>This recognition confirms the institute's credibility and supports trust in online credentials.</p>
-</div>  
-    </div>
-
-      <div class="accreditation-item">
-        <img src="assets/img/aicte-iiit.webp" alt="AICTE Approved">
-        <div class="accreditation-item-content">
-        <h4>AICTE</h4>
-        <p>It makes sure that the course is industry-aligned with curriculum standards, technical rigour, and value.</p>
-</div>  
-    </div>
-
-      <div class="accreditation-item">
-        <img src="assets/img/AACSB.webp" alt="AIU Member">
-        <div class="accreditation-item-content">
-        <h4>AACSB</h4>
-        <p>The approval association signals a global business-quality benchmark, strengthening leadership and learning value.</p>
-</div>  
-    </div>
-    </div>
-
-  </div>
-</section>
-
-
-
-
-<section id="main-courses" class="courses-section">
-  <div class="courses-container">
-
-    <h2 class="section-title">Courses Offered</h2>
-    <p class="section-subtitle">By IIIT Bangalore</p>
-
-    <div class="courses-grid">
-
-      <!-- Card -->
-      <div class="course-card">
-        <img src="assets/img/course-1.webp" alt="Course Image" class="course-img">
-
-        <div class="course-content">
-          <h3>Executive Programme in Generative AI for Leaders</h3>
-
-          <p class="course-desc">
-            IIIT Bangalore online courses help leaders learn GenAI strategy and adoption using the A.D.A.P.T. Framework, with real business use cases, a capstone, and executive-level outcomes.
-          </p>
-
-          <div class="course-actions">
-            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/Executive_Program_in_Generative_AI_for_Leaders.pdf">Download Brochure</button>
-            <button class="btn apply enquireNowBtn">Apply now</button>
-          </div>
+    <div class="stat-item">
+        <div class="header-row">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M224 64C206.3 64 192 78.3 192 96L192 128L160 128C124.7 128 96 156.7 96 192L96 240L544 240L544 192C544 156.7 515.3 128 480 128L448 128L448 96C448 78.3 433.7 64 416 64C398.3 64 384 78.3 384 96L384 128L256 128L256 96C256 78.3 241.7 64 224 64zM96 288L96 480C96 515.3 124.7 544 160 544L480 544C515.3 544 544 515.3 544 480L544 288L96 288z"/></svg>
+            <span class="label">Classes</span>
         </div>
-      </div>
+        <div class="value">3 Hours</div>
+        <div class="sub-value">Per Week</div>
+    </div>
 
-      <!-- Card -->
-      <div class="course-card">
-        <img src="assets/img/course-2.webp" alt="Course Image" class="course-img">
+    <div class="divider"></div>
 
-        <div class="course-content">
-          <h3>Executive Post Graduate Certificate Programme in Data Science & AI</h3>
-
-          <p class="course-desc">
-            IIIT Bangalore online courses build skills in IIIT Bangalore data science and IIIT Bangalore artificial intelligence through statistics, ML, deep learning, projects, and mentorship.
-          </p>
-
-          <div class="course-actions">
-            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/IIITB_EPGC_DS_AI.pdf">Download Brochure</button>
-            <button class="btn apply enquireNowBtn">Apply now</button>
-          </div>
+    <div class="stat-item">
+        <div class="header-row">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M128 96C92.7 96 64 124.7 64 160L64 400L128 400L128 160L512 160L512 400L576 400L576 160C576 124.7 547.3 96 512 96L128 96zM19.2 448C8.6 448 0 456.6 0 467.2C0 509.6 34.4 544 76.8 544L563.2 544C605.6 544 640 509.6 640 467.2C640 456.6 631.4 448 620.8 448L19.2 448z"/></svg>
+            <span class="label">Mode</span>
         </div>
-      </div>
+        <div class="value">100% Online</div>
+        <div class="sub-value">(Live Faculty)</div>
+    </div>
 
-      <!-- Card -->
-      <div class="course-card">
-        <img src="assets/img/course-3.webp" alt="Course Image" class="course-img">
+    <div class="divider"></div>
 
-        <div class="course-content">
-          <h3>Professional Certificate Programme in Data Science with Generative AI</h3>
-
-          <p class="course-desc">
-            IIIT Bangalore online courses deliver an IIIT Bangalore data science course in analytics, ML pipelines, and GenAI, with labs, real datasets, hands-on projects, and portfolio support.
-          </p>
-
-          <div class="course-actions">
-            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/PCP_in_DS_26_Gen_AI_with_IIIT_B.pdf">Download Brochure</button>
-            <button class="btn apply enquireNowBtn">Apply now</button>
-          </div>
+    <div class="stat-item">
+        <div class="header-row">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M208.3 64L432.3 64C458.8 64 480.4 85.8 479.4 112.2C479.2 117.5 479 122.8 478.7 128L528.3 128C554.4 128 577.4 149.6 575.4 177.8C567.9 281.5 514.9 338.5 457.4 368.3C441.6 376.5 425.5 382.6 410.2 387.1C390 415.7 369 430.8 352.3 438.9L352.3 512L416.3 512C434 512 448.3 526.3 448.3 544C448.3 561.7 434 576 416.3 576L224.3 576C206.6 576 192.3 561.7 192.3 544C192.3 526.3 206.6 512 224.3 512L288.3 512L288.3 438.9C272.3 431.2 252.4 416.9 233 390.6C214.6 385.8 194.6 378.5 175.1 367.5C121 337.2 72.2 280.1 65.2 177.6C63.3 149.5 86.2 127.9 112.3 127.9L161.9 127.9C161.6 122.7 161.4 117.5 161.2 112.1C160.2 85.6 181.8 63.9 208.3 63.9zM165.5 176L113.1 176C119.3 260.7 158.2 303.1 198.3 325.6C183.9 288.3 172 239.6 165.5 176zM444 320.8C484.5 297 521.1 254.7 527.3 176L475 176C468.8 236.9 457.6 284.2 444 320.8z"/></svg>
+            <span class="label">NIRF Ranking</span>
         </div>
-      </div>
-
-      <!-- Card -->
-      <div class="course-card">
-        <img src="assets/img/course-4.webp" alt="Course Image" class="course-img">
-
-        <div class="course-content">
-          <h3>Executive Post Graduate Programme in Applied AI and Agentic AI</h3>
-
-          <p class="course-desc">
-            IIIT Bangalore certification courses cover applied AI, agents, RAG, and automation, strengthening IIIT Bangalore's artificial intelligence skills through assignments.
-          </p>
-
-          <div class="course-actions">
-            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/Applied_AI_and_Agentic_AI-4.pdf">Download Brochure</button>
-            <button class="btn apply enquireNowBtn">Apply now</button>
-          </div>
-        </div>
-      </div>
-
-      <!-- Card -->
-      <div class="course-card">
-        <img src="assets/img/course-5.webp" alt="Course Image" class="course-img">
-
-        <div class="course-content">
-          <h3>Executive Diploma in Machine Learning & Artificial Intelligence</h3>
-
-          <p class="course-desc">
-            IIIT Bangalore's online courses offer advanced ML, MLOps, deep learning, and GenAI modules, making them ideal certification courses for working professionals who are seeking strong career growth in their professional journey.
-          </p>
-
-          <div class="course-actions">
-            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/IIITB_ED_ML.pdf">Download Brochure</button>
-            <button class="btn apply enquireNowBtn">Apply now</button>
-          </div>
-        </div>
-      </div>
-
-      <!-- Card -->
-      <div class="course-card">
-        <img src="assets/img/iiim-udaipur.webp" alt="Course Image" class="course-img">
-
-        <div class="course-content">
-          <h3>Chief Technology Officer & AI Leadership Programme</h3>
-
-          <p class="course-desc">
-            Powered by IIM Udaipur, the online course offer detail skills on CTO AI leadership in DBA, covering tech strategy, governance. The IIM Udaipur artificial intelligence offers a skill to prepare student future leadership.
-          </p>
-
-          <div class="course-actions">
-            <button class="btn brochure downloadBrochureBtn" data-pdf="assets/img/CTOAI_leadership_program.pdf">Download Brochure</button>
-            <button class="btn apply enquireNowBtn">Apply now</button>
-          </div>
-        </div>
-      </div>
-
+        <div class="value">5th</div>
+        <div class="sub-value">In India</div>
     </div>
-  </div>
-</section>
-
-
-
-
-
-<section id="about-section" class="about-section">
-  <div class="about-container">
-
-    <!-- Left Image -->
-    <div class="about-image">
-      <img src="assets/img/iiit-b-about-image.webp" alt="IIIT Bangalore Campus">
-    </div>
-
-    <!-- Right Content -->
-    <div class="about-content">
-      <h2>About IIIT Bangalore <br>Online Courses</h2>
-      <span class="underline"></span>
-
-      <p>
-        IIIT Bangalore is a premier technology institute established in 1998, known for industry-focused education and strong academic depth. Its IIIT Bangalore online courses are designed for working professionals, combining academic rigor with real-world application. The institute offers carefully structured IIIT Bangalore certification courses in emerging technology domains, supported by expert faculty and industry mentors. Learners gain practical exposure through projects, case studies, and capstones that align skills with current business and technology needs.
-      </p>
-
-      <div class="about-actions">
-        <button class="btn red enquireNowBtn"><i class="fa fa-phone"></i> Request Call Back</button>
-        <button class="btn outline enquireNowBtn">Get 1:1 FREE Counseling</button>
-      </div>
-    </div>
-
-  </div>
-</section>
-
-
-
-
-<section id="why_choose" class="why-section">
-  <div class="why-header">
-    <h2>WHY CHOOSE?</h2>
-    <p>IIIT Bangalore Online Courses</p>
-  </div>
-
-  <div class="why-grid">
-    <!-- Card 1 -->
-    <div class="why-card dark">
-      <img src="assets/img/premier-institute-credibility-iiitb.webp">
-      <h3>Premier institute credibility</h3>
-      <p>
-        With strong academic standards and industry trust, IIIT Bangalore online courses deliver learning that carries real value in hiring and career growth.
-      </p>
-    </div>
-
-    <!-- Card 2 -->
-    <div class="why-card light">
-      <img src="assets/img/future-ready-ai-learning.webp">
-      <h3>Future-ready AI learning</h3>
-      <p>
-        The curriculum is built around practical outcomes in iiit bangalore artificial intelligence, helping professionals work confidently with real AI tools and use cases.
-      </p>
-    </div>
-
-    <!-- Card 3 -->
-    <div class="why-card dark">
-      <img src="assets/img/strong-data-science.webp">
-      <h3>Strong Data Science foundation</h3>
-      <p>
-        Programs at IIIT Bangalorefocus on statistics, ML models, business insights, and projects that build job-ready skills.
-      </p>
-    </div>
-
-    <!-- Card 4 -->
-    <div class="why-card light">
-      <img src="assets/img/certificate-iiitb.webp">
-      <h3>Certification advantage</h3>
-      <p>
-        These are structured IIIT Bangalore certification courses designed for professionals who want credible credentials with applied training, not just theory.
-      </p>
-    </div>
-
-    <!-- Card 5 -->
-    <div class="why-card dark">
-      <img src="assets/img/leadership-edge-with-partner.webp">
-      <h3>Leadership edge with partner institute</h3>
-      <p>
-        The CTO leadership track includes IIM Udaipur artificial intelligence coverage, combining tech strategy and AI decision-making for senior roles.
-      </p>
-    </div>
-
-    <!-- Card 6 -->
-    <div class="why-card light">
-      <img src="assets/img/hands-on-learning-approach.webp">
-      <h3>Hands-on learning approach</h3>
-      <p>
-        Across multiple tracks, IIIT Bangalore online courses include projects, labs, and capstones, and all online IIIT Bangalore courses are integrated and career-focused.
-      </p>
-    </div>
-  </div>
-</section>
-
-
-
-
-
-
-
-<div class="HighLights">
-   
-    <div class="container">
-    <div class="ach">
-          
-
-            <div class="ac1">
-                
-                <i class="fa fa-graduation-cap"></i>
-                <div class="inner_arc1_grid">
-                <h3>10+</h3>
-                <p>Years of Experience</p>
-                </div>
-            </div>
-
-            <div class="ac1">
-                
-                <i class="fa fa-graduation-cap"></i>
-                <div class="inner_arc1_grid">
-                <h3>30k+</h3>
-                <p>Learner</p>
-                </div>
-            </div>
-
-            <div class="ac1">
-                
-                <i class="fa fa-graduation-cap"></i>
-                <div class="inner_arc1_grid">
-                <h3>15+</h3>
-                <p>Assignment & Case Studies</p>
-                </div>
-            </div>
-
-            <div class="ac1">
-                
-                <i class="fa fa-graduation-cap"></i>
-                <div class="inner_arc1_grid">
-                <h3>30+</h3>
-                <p>Tools</p>
-                </div>
-            </div>
-
-            
-        </div>
-    </div></div>
 </div>
 
 
 
+<section id="main-courses" class="course-overview">
+    <h2 class="main-title">COURSE OVERVIEW</h2>
+    <h3 class="sub-title">Executive Post Graduate Certificate in Generative AI & Agentic AI</h3>
+
+    <div class="content-container">
+        <p>
+            The IIT Kharagpur AI course is designed to help learners build real-world skills in Generative AI and Agentic AI through a structured, job-focused curriculum. Delivered as part of IIT Kharagpur online courses, this program supports students and working professionals who want hands-on learning and strong AI fundamentals. The course focuses on practical system-building, including enterprise-ready AI solutions, fine-tuning LLMs, and multi-agent workflows. With expert guidance and flexible learning, you can gain industry-relevant knowledge and move toward career growth with IIT Kharagpur University credentials.
+        </p>
+    </div>
+
+    <div class="button-group">
+        <button class="downloadBrochureBtn btn brochure" data-pdf="assets/img/brochure.pdf">
+        <a class="btn btn-outline downloadBrochureBtn">
+            Download Broucher <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M352 96C352 78.3 337.7 64 320 64C302.3 64 288 78.3 288 96L288 306.7L246.6 265.3C234.1 252.8 213.8 252.8 201.3 265.3C188.8 277.8 188.8 298.1 201.3 310.6L297.3 406.6C309.8 419.1 330.1 419.1 342.6 406.6L438.6 310.6C451.1 298.1 451.1 277.8 438.6 265.3C426.1 252.8 405.8 252.8 393.3 265.3L352 306.7L352 96zM160 384C124.7 384 96 412.7 96 448L96 480C96 515.3 124.7 544 160 544L480 544C515.3 544 544 515.3 544 480L544 448C544 412.7 515.3 384 480 384L433.1 384L376.5 440.6C345.3 471.8 294.6 471.8 263.4 440.6L206.9 384L160 384zM464 440C477.3 440 488 450.7 488 464C488 477.3 477.3 488 464 488C450.7 488 440 477.3 440 464C440 450.7 450.7 440 464 440z"/></svg>
+        </a>
+</button>
+        <a class="btn btn-filled enquireNowBtn">Apply Now</a>
+    </div>
+</section>
 
 
-  
+
+
+<section class="ai-systems-section">
+    <h2 class="main-title">Build Real-World AI Systems</h2>
+    <h3 class="sub-title">Learn to Build & Deploy GenAI + Agentic AI Systems</h3>
+
+    <div class="swiper ai-systems-slider">
+        <div class="swiper-wrapper">
+            
+            <div class="swiper-slide">
+                <div class="ai-card">
+                    <div class="icon-box"><i class="fa-solid fa-chart-line"></i></div>
+                    <h4 class="card-title">Enterprise RAG System</h4>
+                    <p class="card-text">Smart search that combines methods, ranks results by relevance, handles large document sets, and improves over time.</p>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="ai-card">
+                    <div class="icon-box"><i class="fa-solid fa-bullseye"></i></div>
+                    <h4 class="card-title">Fine-Tuned LMS</h4>
+                    <p class="card-text">An AI model trained for a specific industry using specialized techniques. You can access it via an easy-to-use API.</p>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="ai-card">
+                    <div class="icon-box"><i class="fa-solid fa-users-gear"></i></div>
+                    <h4 class="card-title">Multi-Agent System</h4>
+                    <p class="card-text">Multiple AI helpers that break down complex jobs, utilize various tools, and collaborate with each other. Perfect for tasks that need several steps and teamwork.</p>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="ai-card">
+                    <div class="icon-box"><i class="fa-solid fa-server"></i></div>
+                    <h4 class="card-title">Deployed GEN-AI API</h4>
+                    <p class="card-text">A professional-grade API that runs your AI model in real-world conditions. It comes packaged in containers, includes monitoring features, and can handle actual user requests.</p>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="ai-card">
+                    <div class="icon-box"><i class="fa-solid fa-lightbulb"></i></div>
+                    <h4 class="card-title">Industry Capstone</h4>
+                    <p class="card-text">A comprehensive solution that addresses a real business challenge from start to finish, created with guidance from experienced instructors.</p>
+                </div>
+            </div>
+
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+</section>
+
+
+
+<section id="approvals" class="accreditation-section">
+    <div class="container">
+        <h2 class="section-title">APPROVALS & ACCREDITATION</h2>
+        <p class="section-subtitle">India's First IIT - Established 1951</p>
+
+        <div class="accreditation-grid">
+            <div class="accreditation-item">
+                <div class="rank-display">
+                    <img src="assets/img/kharagpur-qs-approval-6969d7475adaf.webp" alt="QS World University Rankings" class="rank-logo">
+                </div>
+                <div class="rank-description">
+                  <h5>215th in QS World University Rankings</h5>
+
+                    <p>It is ranked 215th globally in the QS World University Rankings, showing strong academic performance and international recognition.</p>
+                    <div class="orange-line"></div>
+                </div>
+            </div>
+
+            <div class="vertical-divider"></div>
+
+            <div class="accreditation-item">
+                <div class="rank-display">
+                    <img src="assets/img/kharagpur-nirf-logo-6969d7472c268.webp" alt="NIRF Rankings" class="rank-logo">
+                </div>
+                <div class="rank-description">
+                  <h5>6th in NIRF Ranking</h5>
+                  
+                    <p>It holds the 6th position in the NIRF Rankings, reflecting its high standards in teaching, research, and overall excellence in India.</p>
+                    <div class="orange-line"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section id="about-section" class="about-iit-section">
+    <div class="content-card">
+        <h2 class="about-title">About IIT Kharagpur</h2>
+
+        <div class="about-text">
+            <p>
+                Established in 1951, the Indian Institute of Technology Kharagpur is India's first IIT and was declared an Institute of National Importance under the Indian Institute of Technology (Kharagpur) Act, 1956. Located in Kharagpur, West Bengal, the institute occupies a 2,100-acre campus and has consistently ranked among India's leading engineering institutions, ranking 5th nationally in the NIRF 2025 Engineering category.
+            </p>
+            <p>
+                IIT Kharagpur's research ecosystem is built on interdisciplinary collaboration, with a dedicated focus on AI research, industry-relevant solutions, and the advancement of machine learning systems.
+            </p>
+        </div>
+
+        <a class="btn-consultation enquireNowBtn">
+            Get FREE 1:1 Consultation <i class="fa-solid fa-arrow-right"></i>
+        </a>
+    </div>
+</section>
+
+
+
+
+
+<section id="why_choose" class="learning-section">
+    <div class="container">
+        <h2 class="learning-title">What Will You Learn?</h2>
+
+        <div class="learning-grid">
+            <div class="learning-card">
+                <div class="learning-icon">
+                    <img src="assets/img/icon-karagapur-6969d762ee255.webp">
+                </div>
+                <h4 class="learning-card-title">Foundations of GenAI & LLMs</h4>
+                <p class="learning-card-text">Learn the fundamentals of large language models, including neural networks, transformer architecture, text embeddings, and selecting the best base model for your specific needs.</p>
+            </div>
+
+            <div class="learning-card">
+                <div class="learning-icon">
+                    <img src="assets/img/deployment-696f68007751d.webp">
+                </div>
+                <h4 class="learning-card-title">Advanced Prompting & RAG Systems</h4>
+                <p class="learning-card-text">Create effective prompts and develop professional-grade retrieval systems using combined search methods, result prioritization, and quality testing. Move from simple prototypes to deployable solutions.</p>
+            </div>
+
+            <div class="learning-card">
+                <div class="learning-icon">
+                    <img src="assets/img/fine-tune-llm-696f687d6beb5.webp">
+                </div>
+                <h4 class="learning-card-title">LLM Fine-Tuning & Alignment</h4>
+                <p class="learning-card-text">Discover whether your project needs custom training, better prompts, or retrieval systems, then apply efficient training techniques like LoRA and QLoRA while measuring improvements.</p>
+            </div>
+
+            <div class="learning-card">
+                <div class="learning-icon">
+                    <img src="assets/img/agentic-ai-696f66d196c28.webp">
+                </div>
+                <h4 class="learning-card-title">Multimodal & Agentic AI</h4>
+                <p class="learning-card-text">Go beyond basic chatbots by developing systems that process images and text together, plus AI agents capable of planning actions, utilizing various tools, managing multiple tasks, and automating complex processes.</p>
+            </div>
+
+            <div class="learning-card">
+                <div class="learning-icon">
+                    <img src="assets/img/dployment-696f66d0ded88.webp">
+                </div>
+                <h4 class="learning-card-title">Deployment, Optimization & AI Safety</h4>
+                <p class="learning-card-text">Deploy your AI systems successfully with robust hosting infrastructure, performance tracking, speed optimization, budget management, and safety measures to ensure ethical implementation.</p>
+            </div>
+
+            <div class="learning-card">
+                <div class="learning-icon">
+                    <img src="assets/img/production-696f66d0dc019.webp">
+                </div>
+                <h4 class="learning-card-title">Build a Production-Ready AI System</h4>
+                <p class="learning-card-text">Combine model customization, retrieval systems, intelligent agents, and deployment strategies into a fully functional solution. Plan your architecture, develop the system, and launch it successfully.</p>
+            </div>
+        </div>
+    </div>
+</section>
+ 
 
 
 
@@ -396,13 +303,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="sample-certificate" class="certificate-slider-section">
         
         <div class="certificate-display">
-                <img src="assets/img/sample-certificate.webp" alt="Certificate 1">
+                <img src="assets/img/samle-certificate-kharagpur-6969d7446e685.webp" alt="Certificate 1">
         </div>
 
         <div class="certificate-content">
             <h2>Sample Post <br> Graduate Certificate</h2>
             <p class="description">
-                The students who have completed their IIIT Bangalore Online courses will receive two certificates from Microsoft. The student gets to learn multiple tools, which will allow them to get the upgrade they need in their professional journey. IIIT Bangalore also offers special IIM Udaipur artificial intelligence courses that allow students to earn a dual degree.
+                You will receive an Executive Postgraduate Certificate from IIT Kharagpur, a well-known and trusted qualification. If you perform really well, you can also get a Certificate with Distinction. This is given to the top 10% students in each batch and is clearly mentioned on the certificate. Overall, this IIT certificate shows strong learning and also proves that you are ready for advanced AI jobs.
             </p>
             <a class="get-degree-btn enquireNowBtn">Get Degree <span class="arrow">→</span></a>
         </div>
@@ -412,59 +319,93 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
+<section class="stats-section">
+    <div class="container">
+        <div class="stats-grid">
+            
+            <div class="stat-card">
+                <div class="floating-header">
+                    <i class="fa-solid fa-book-open-reader icon-orange"></i>
+                    <span class="stat-number">3000+</span>
+                </div>
+                <p class="stat-text">Students from India Abroad</p>
+            </div>
+
+            <div class="stat-card">
+                <div class="floating-header">
+                    <i class="fa-solid fa-user-tie icon-orange"></i>
+                    <span class="stat-number">100%</span>
+                </div>
+                <p class="stat-text">Live Online, Faculty-Led Sessions</p>
+            </div>
+
+            <div class="stat-card">
+                <div class="floating-header">
+                    <i class="fa-solid fa-graduation-cap icon-orange"></i>
+                    <span class="stat-number">6000+</span>
+                </div>
+                <p class="stat-text">Succeed Alumni Trust Base</p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
 <section id="faqs" class="faq-section">
     <div class="faq-header">
-        <h2>FAQ-Frequently Asked Question</h2>
+        <h2>FAQ - Frequently Asked Questions</h2>
     </div>
 
     <div class="faq-container">
         <div class="faq-item active">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                What are the IIIT Bangalore online courses?
+                What are the eligibility criteria?
             </button>
             <div class="faq-answer">
-                <p>They are industry-focused online programmes from IIIT Bangalore, designed for working professionals with flexible learning, projects, and recognised certification.</p>
+                <p>Candidates must have a bachelor’s degree (B.Tech/M.Tech, B.E/M.E in CS/IT/AI/ECE/EE preferred, or B.Sc in CS/Maths/Statistics/Physics, or MCA) with at least 50% marks from a recognised university. Other graduates need a minimum of 2 years of experience, and those with less than 50% marks must clear an online entrance test.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                 Do IIIT Bangalore certification courses help in career growth?
+                 What is the admission process?
             </button>
             <div class="faq-answer">
-                <p>Yes. These certifications add credibility, strengthen skills, and help professionals qualify for better roles in tech and management.</p>
+                <p>The process includes four steps: submit your application, get shortlisted, receive the offer, and block your seat. Shortlisting is based on academic background and professional experience.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                 Is IIIT bangalore artificial intelligence taught with practical training?
+                 Who is this program for?
             </button>
             <div class="faq-answer">
-                <p>Yes. The AI-focused programmes include real-world use cases, hands-on assignments, and capstone projects to build job-ready expertise.</p>
+                <p>This program is ideal for Software Engineers (3+ years), ML/Data Practitioners (2+ years), and Technical Leads/Architects who want to build production-ready GenAI systems and are comfortable with Python, APIs, and basic ML concepts.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                Do IIIT bangalore data science programmes include projects?
+                What will I build during this program?
             </button>
             <div class="faq-answer">
-                <p>Yes. Data Science programmes include applied projects, tool-based learning, and an industry-aligned curriculum for real-world analytics and ML problem-solving.</p>
+                <p>You will build five production-ready projects, including a RAG system, a fine-tuned LLM, a multi-agent system, a deployed GenAI API, and an industry capstone project.</p>
             </div>
         </div>
 
         <div class="faq-item">
             <button class="faq-question">
                 <span class="status-icon"></span>
-                 Is IIM Udaipur artificial intelligence included in the CTO programme?
+                 What makes this program different from others?
             </button>
             <div class="faq-answer">
-                <p>Yes. The CTO & AI Leadership programme, offered in partnership with IIM Udaipur, covers AI leadership and decision-making modules.</p>
+                <p>It offers deep learning through 5 focused modules over 32 weeks, is fully faculty-led by IIT Kharagpur professors, includes robust deployment training, and culminates in a production-ready capstone system.</p>
             </div>
         </div>
     </div>
@@ -499,6 +440,8 @@ include __DIR__ . '/components/footer.php';
 <!-- End  faq -->
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
 
  <script>
   $(function(){
@@ -721,4 +664,48 @@ document.querySelectorAll('.downloadBrochureBtn').forEach(btn => {
     openPopup('brochurePopup');
   });
 });
+</script>
+
+
+
+<script>
+const swiper = new Swiper('.ai-systems-slider', {
+    // Basic Settings
+    slidesPerView: 1,
+    spaceBetween: 30,
+    loop: true, // Enables infinite looping
+    centeredSlides: false,
+    
+    // Autoplay Settings
+    autoplay: {
+        delay: 1000, // 2 seconds
+        disableOnInteraction: false, // Keeps autoplay running after user clicks
+        pauseOnMouseEnter: false, // Pauses when user hovers over the slider
+    },
+
+    // Pagination
+    pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+    },
+
+    // Responsive Breakpoints
+    breakpoints: {
+        768: {
+            slidesPerView: 2,
+        },
+        1024: {
+            slidesPerView: 3,
+        }
+    }
+});
+  </script>
+
+
+<script>
+  document.querySelectorAll('.nav-list a').forEach(link => {
+    link.addEventListener('click', () => {
+      document.getElementById('nav-check').checked = false;
+    });
+  });
 </script>

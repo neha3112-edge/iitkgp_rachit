@@ -5,14 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.png"/>
-    <title>IIIT Bangalore Online Courses | AI, Data Science & Certifications</title>
+    <title>Kharagpur LP</title>
     <meta decription="Explore IIIT Bangalore online courses in AI & Data Science. NAAC A+ accredited certification programs with IIM Udaipur artificial intelligence leadership modules.">
     <meta keyword="Online DBA Programs">
 	<link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/common.css">
     <link rel="stylesheet" href="assets/css/navbar.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
 
@@ -96,8 +99,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <input type="checkbox" id="nav-check">
             <div class="nav-header">
                 <div class="nav-title">
-                    <a href="https://iiitb.distanceeducationschool.in/" id="logo-link">  
-                        <img src="assets/img/iiit-b-header-logo.webp" class="logo" alt="IIM-Logo">
+                    <a href="https://kharagpur.distanceeducationschool.in/" id="logo-link">  
+                        <img src="assets/img/kharag-pur-logo-for-header-6969d74412004.webp" class="logo" alt="IIM-Logo">
                     </a>
                 </div>
             </div>
@@ -110,10 +113,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <ul class="nav-list">
             <li><a href="#hero-section">Home</a></li>
-            <li><a href="#main-courses">Courses</a></li>
+            <li><a href="#main-courses">Course</a></li>
             <li><a href="#approvals">Approvals</a></li>
             <li><a href="#about-section">About</a></li>
-                <li><a href="#why_choose">Why IIIT-B ?</a></li>
+                <li><a href="#why_choose">Why IIT-KGP?</a></li>
                 
                 <li><a href="#faqs">FAQ</a></li>
             </ul>

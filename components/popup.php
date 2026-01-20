@@ -93,12 +93,7 @@
                         <label>Course <span class="required">*</span></label>
                         <select name="course" class="form-control" id="courseSelect" required>
                             <option value="">Select Your Course</option>
-                            <option value="Executive Programme in Generative AI for Leaders">Executive Programme in Generative AI for Leaders</option>
-                            <option value="Executive Post Graduate Certificate Programme in Data Science & AI">Executive Post Graduate Certificate Programme in Data Science & AI</option>
-                            <option value="Professional Certificate Programme in Data Science with Generative AI">Professional Certificate Programme in Data Science with Generative AI</option>
-                            <option value="Executive Post Graduate Programme in Applied AI and Agentic AI">Executive Post Graduate Programme in Applied AI and Agentic AI</option>
-                            <option value="Executive Diploma in Machine Learning & Artificial Intelligence">Executive Diploma in Machine Learning & Artificial Intelligence</option>
-                            <option value="Chief Technology Officer & AI Leadership Programme">Chief Technology Officer & AI Leadership Programme</option>
+                            <option value="Executive Post Graduate Certificate in Generative AI & Agentic AI">Executive Post Graduate Certificate in Generative AI & Agentic AI</option>
                         </select>
                     </div>
 
@@ -139,7 +134,7 @@
                     </div>
 
                     <input type="hidden" name="brochure_pdf" id="brochure_pdf">
-                    <input type="hidden" name="source" id="source" value="IIITB LP">
+                    <input type="hidden" name="source" id="source" value="Kharagpur LP">
                     <input type="hidden" name="form_name" id="form_name" value="Download Brochure">
                     <input type="hidden" name="sub_source" id="sub_source" value="">
                     <input type="hidden" name="utm_source" id="utm_source" value="">

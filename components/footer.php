@@ -5,19 +5,14 @@
     <div class="container">
     <div class="footer-section">
             <div class="footer-column">
-                <a href="https://iiitb.distanceeducationschool.in/"><img src="assets/img/iiit-b-footer-logo.webp" alt="logo-img" width="70%"/><br><br></a>
+                <a href="https://kharagpur.distanceeducationschool.in/"><img src="assets/img/unnamed-2-696f690636902.webp" alt="logo-img" width="70%"/><br><br></a>
                    <h2>Have Query? <br>Need Guidance</h2><br>
                   <button class="enquireNowBtn" style="background-color:var(--primary-color); padding:10px 20px; color:#fff; border-style:none; border-radius:5px;"><i class="fa fa-phone"></i> Request Call Back</button>
             </div>
             <div class="footer-column">
                 <h2>Online Courses</h2>
 				<ul>
-                    <li><a href="#main-courses">Executive Programme in Generative AI for Leaders</a></li>
-                    <li><a href="#main-courses">Executive Post Graduate Certificate Programme in Data Science & AI</a></li>
-                    <li><a href="#main-courses">Professional Certificate Programme in Data Science with Generative AI</a></li>
-                    <li><a href="#main-courses">Executive Post Graduate Programme in Applied AI and Agentic AI</a></li>
-                    <li><a href="#main-courses">Executive Diploma in Machine Learning & Artificial Intelligence</a></li>
-                    <li><a href="#main-courses">Chief Technology Officer & AI Leadership Programme</a></li>
+                    <li><a href="#main-courses">Executive Post Graduate Certificate in Generative AI & Agentic AI</a></li>
 
                 </ul>
 				
